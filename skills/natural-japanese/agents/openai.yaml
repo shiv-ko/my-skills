@@ -1,0 +1,4 @@
+interface:
+  display_name: "自然な日本語"
+  short_description: "仕事の日本語文書を自然で読みやすく作成・推敲します"
+  default_prompt: "$natural-japanese を使って、この文章を自然で読みやすい日本語に整えてください。"

@@ -12,6 +12,7 @@
 | `explain-diff-markdown` | コード差分をMarkdownで解説 |
 | `grill-me` | 計画や設計を徹底的に質問して検証 |
 | `hallmark` | AIらしい凡庸さを避けたUI設計・監査・再設計 |
+| `natural-japanese` | 仕事の日本語文書を自然で読みやすく作成・推敲 |
 | `review-presentation` | PowerPointの論理・可読性・一貫性をレビュー |
 | `sync-codex-claude` | CodexとClaude Codeの設定やSkillを意味的に同期 |
 
@@ -57,4 +58,9 @@
 
 ## ライセンス
 
-`hallmark`には、元プロジェクトのMIT Licenseと著作権表示を同梱しています。それ以外のSkillに適用するリポジトリ共通ライセンスは、公開前に決定してください。
+`hallmark`と`natural-japanese`には、それぞれの元プロジェクトのMIT Licenseと著作権表示を同梱しています。それ以外のSkillに適用するリポジトリ共通ライセンスは、公開前に決定してください。
+
+## 外部から取り込んだSkill
+
+- `hallmark`: `Nutlope/hallmark`、基準commit `13ac0ec7e148655948100b6396439e481361d690`
+- `natural-japanese`: `coji/natural-japanese`、基準commit `0f1cc1c5a4e2aa7590598c88a15c213a60d9545a`
