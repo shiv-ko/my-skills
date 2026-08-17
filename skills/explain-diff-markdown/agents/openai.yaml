@@ -1,0 +1,4 @@
+interface:
+  display_name: "コード差分Markdown解説"
+  short_description: "コード変更を図解とクイズ付きMarkdownで詳しく解説します"
+  default_prompt: "$explain-diff-markdown を使って、このコード変更をMarkdownで詳しく説明してください。"

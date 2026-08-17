@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kindleハイライト活用"
+  short_description: "Kindleの引用を知識ノートへ再構成して活用する"
+  default_prompt: "$digest-kindle-highlights でKindleハイライトを知識ノートに整理してください。"

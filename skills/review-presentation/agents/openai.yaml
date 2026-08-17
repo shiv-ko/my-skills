@@ -1,0 +1,13 @@
+interface:
+  display_name: プレゼン資料レビュー
+  short_description: PPTXの論理・可読性・一貫性を読者視点で点検します
+  default_prompt: $review-presentation を使ってこのPPTXをレビューし、実行可能な改善案に優先順位を付けてください。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

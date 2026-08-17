@@ -1,0 +1,4 @@
+interface:
+  display_name: "コード差分HTML解説"
+  short_description: "コード変更を図解とクイズ付きHTMLで詳しく解説します"
+  default_prompt: "$explain-diff-html を使って、このコード変更を対話的なHTMLで詳しく説明してください。"

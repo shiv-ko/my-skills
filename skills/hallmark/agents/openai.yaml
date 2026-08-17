@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hallmarkデザイン"
+  short_description: "AIらしい凡庸さを避けたUI設計・監査・再設計を行います"
+  default_prompt: "$hallmark を使って、独自性のあるUIを設計してください。"
