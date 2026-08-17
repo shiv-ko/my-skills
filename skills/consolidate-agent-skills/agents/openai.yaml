@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Skillsを統合"
+  short_description: "散在するAgent Skillsを日本語化・Git統合・検証します"
+  default_prompt: "$consolidate-agent-skills を使って、複数の保存先にあるSkillsを棚卸しし、Git管理できる形へ統合してください。"

@@ -6,6 +6,7 @@
 
 | Skill | 概要 |
 | --- | --- |
+| `consolidate-agent-skills` | 散在するAgent Skillsを日本語化・Git統合・検証 |
 | `create-recurring-google-takeout-export` | Google Takeoutの定期エクスポートを作成 |
 | `digest-kindle-highlights` | Kindleハイライトを知識ノートへ再構成 |
 | `explain-diff-html` | コード差分を対話的HTMLで解説 |
