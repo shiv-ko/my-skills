@@ -1,0 +1,4 @@
+interface:
+  display_name: "やさしく図解"
+  short_description: "初めての人向けに、大きな図と少ない言葉で説明します"
+  default_prompt: "$eli5 を使って、このテーマを知識ゼロの人にも分かるHTML図解にしてください。"
