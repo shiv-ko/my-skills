@@ -1,0 +1,4 @@
+interface:
+  display_name: "Money Forward ME CSV出力"
+  short_description: "家計簿の指定月データをCSV形式で安全にダウンロード"
+  default_prompt: "$export-moneyforward-me-csv を使って、指定月の家計簿データをCSVでダウンロードしてください。"

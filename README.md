@@ -12,9 +12,11 @@
 | `eli5` | 難しいテーマを大きな図と少ない言葉のHTMLで解説 |
 | `explain-diff-html` | コード差分を対話的HTMLで解説 |
 | `explain-diff-markdown` | コード差分をMarkdownで解説 |
+| `export-moneyforward-me-csv` | Money Forward MEの家計簿CSVをダウンロード |
 | `grill-me` | 計画や設計を徹底的に質問して検証 |
 | `hallmark` | AIらしい凡庸さを避けたUI設計・監査・再設計 |
 | `natural-japanese` | 仕事の日本語文書を自然で読みやすく作成・推敲 |
+| `rendering-flow-diagrams` | フロー図を説明文なしの高解像度な1枚画像で作成 |
 | `review-presentation` | PowerPointの論理・可読性・一貫性をレビュー |
 | `sync-codex-claude` | CodexとClaude Codeの設定やSkillを意味的に同期 |
 

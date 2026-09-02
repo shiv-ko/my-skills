@@ -1,0 +1,4 @@
+interface:
+  display_name: "フロー図をきれいに"
+  short_description: "工程図をシンプルな高解像度の1枚画像として作ります"
+  default_prompt: "$rendering-flow-diagrams を使って、このフロー図を説明文なしのシンプルな高解像度画像として作り直してください。"

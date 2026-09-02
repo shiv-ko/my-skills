@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Takeout 定期エクスポート"
+  short_description: "Googleの4サービスを毎月バックアップ用に書き出します"
+  default_prompt: "$create-recurring-google-takeout-export を使って、Google Takeoutの定期エクスポートを作成してください。"
