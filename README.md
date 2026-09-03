@@ -9,6 +9,7 @@
 | `consolidate-agent-skills` | 散在するAgent Skillsを日本語化・Git統合・検証 |
 | `create-recurring-google-takeout-export` | Google Takeoutの定期エクスポートを作成 |
 | `digest-kindle-highlights` | Kindleハイライトを知識ノートへ再構成 |
+| `done-triage` | Obsidianの処理済みメモを内容別に振り分け |
 | `eli5` | 難しいテーマを大きな図と少ない言葉のHTMLで解説 |
 | `explain-diff-html` | コード差分を対話的HTMLで解説 |
 | `explain-diff-markdown` | コード差分をMarkdownで解説 |
