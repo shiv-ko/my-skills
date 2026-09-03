@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copilot開発オーケストレーション"
+  short_description: "役割分離したCopilot開発フローをリポジトリへ導入します"
+  default_prompt: "$github-copilot-sdlc-orchestration を使って、このリポジトリに開発オーケストレーションを導入してください。"
