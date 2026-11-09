@@ -7,6 +7,7 @@
 | Skill | 概要 |
 | --- | --- |
 | `consolidate-agent-skills` | 散在するAgent Skillsを日本語化・Git統合・検証 |
+| `create-learning-roadmap` | Imozuruで原典・前提知識を調べ、Obsidianの学習ロードマップを作成 |
 | `create-recurring-google-takeout-export` | Google Takeoutの定期エクスポートを作成 |
 | `digest-kindle-highlights` | Kindleハイライトを知識ノートへ再構成 |
 | `done-triage` | Obsidianの処理済みメモを内容別に振り分け |
@@ -16,6 +17,7 @@
 | `export-moneyforward-me-csv` | Money Forward MEの家計簿CSVをダウンロード |
 | `grill-me` | 計画や設計を徹底的に質問して検証 |
 | `hallmark` | AIらしい凡庸さを避けたUI設計・監査・再設計 |
+| `imozuru` | 引用・リンク・著者をたどり、原文収集と根拠付きの調査レポートを作成 |
 | `github-copilot-sdlc-orchestration` | GitHub Copilot向けの役割分離した開発フローを導入・改善 |
 | `natural-japanese` | 仕事の日本語文書を自然で読みやすく作成・推敲 |
 | `rendering-flow-diagrams` | フロー図を説明文なしの高解像度な1枚画像で作成 |
@@ -64,9 +66,10 @@
 
 ## ライセンス
 
-`hallmark`と`natural-japanese`には、それぞれの元プロジェクトのMIT Licenseと著作権表示を同梱しています。それ以外のSkillに適用するリポジトリ共通ライセンスは、公開前に決定してください。
+`hallmark`、`imozuru`、`natural-japanese`には、それぞれの元プロジェクトのMIT Licenseと著作権表示を同梱しています。それ以外のSkillに適用するリポジトリ共通ライセンスは、公開前に決定してください。
 
 ## 外部から取り込んだSkill
 
+- `imozuru`: `MaryCache/imozuru`（詳細は `skills/imozuru/SOURCE.md`）
 - `hallmark`: `Nutlope/hallmark`、基準commit `13ac0ec7e148655948100b6396439e481361d690`
 - `natural-japanese`: `coji/natural-japanese`、基準commit `0f1cc1c5a4e2aa7590598c88a15c213a60d9545a`
